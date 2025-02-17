@@ -1,2 +1,4 @@
 I wonder how a txt doc & HTML file are different when it comes to coding
 Super weird and cant't wait to learn more!
+
+Adding a random line to try and redo a git commit
